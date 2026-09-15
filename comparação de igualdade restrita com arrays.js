@@ -1,0 +1,5 @@
+// ListaA é um array com 5 elementos
+let listaA = [10, 20, 30, 40, 50];
+// LisstaA é outro array com os mesmos 5 elementos que a listaA
+let listaB = [10, 20, 30, 40, 50];
+console.log (listaA === listaB)

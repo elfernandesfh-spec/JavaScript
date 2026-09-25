@@ -1,0 +1,1 @@
+condicao ? expressao_se_verdadeira: expressao_se_falso

@@ -6,8 +6,8 @@ switch (medalha) {
     case "Bronze": console.log("3º Lugar"); 
     default: console.log("Participante"); }
 /*
-A) 2º Lugar( X)
-B) 2º Lugar, 3º Lugar e Participante.  ( )
+A) 2º Lugar()
+B) 2º Lugar, 3º Lugar e Participante.  (X)
 C) Prata  ( )
 D) Participante ( )
 */
